@@ -68,6 +68,10 @@ a {
       font-size:30px;
     }
 
+    .blackiconcolor {
+      color: black;
+    }
+
 #mainNav {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   margin-bottom: 0;
