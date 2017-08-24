@@ -122,7 +122,7 @@ a {
   padding: 200px 0;
   text-align: center;
   color: white;
-  background: url("../img/ginsengfarm-2.jpg") no-repeat bottom center scroll;
+  background: url("../img/ginsengfarm-2_opt.jpg") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -172,7 +172,7 @@ a {
 
 .download-section {
   color: white;
-  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("../img/MountainMan_HR.jpg") no-repeat center center scroll;
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("../img/MountainMan_HR_opt1.jpg") no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -182,7 +182,7 @@ a {
 
 .buy-section {
   color: white;
-  background: linear-gradient( rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25) ),url("../img/willMoik_ginsengBackground.jpg") no-repeat center center scroll;
+  background: linear-gradient( rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25) ),url("../img/willMoik_ginsengBackground_opt2.jpg") no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
